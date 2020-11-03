@@ -1,14 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src="https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" className="App-logo" alt="logo" />
+        <p/><p/>
+        <img src="https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" className="App-logo" alt="logo" />
+        {/*
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -17,6 +16,7 @@ function App() {
         >
           Learn React
         </a>
+        */}
       </header>
     </div>
   );
