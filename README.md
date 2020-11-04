@@ -1,5 +1,8 @@
 git fetch --all  
-git reset --hard aionline/master
+git reset --hard aionline/master  
+  
+git commit -m "sth"  
+git push aionline master  
 
 # Getting Started with Create React App
 
